@@ -3,10 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Manoj Prakash/IdeaProjects/SeleniumFrameWork">
         <classes>
-            <class name="sample.com.seleniumframework.TestCaseBoilerPlate">
-                <methods>
-                    <include name="test"/>
-                </methods>
+            <class name="com.seleniumframework.tests.pageObjectModel_Test.vwo.TestVWOLogin_01_NormalScript_POM">
+
             </class>
         </classes>
     </test>
